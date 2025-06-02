@@ -1,0 +1,15 @@
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\Pilots_Console.exe
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\pilots.json
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\Pilots_Console.deps.json
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\Pilots_Console.runtimeconfig.json
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\Pilots_Console.dll
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\bin\Debug\net8.0\Pilots_Console.pdb
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.GeneratedMSBuildEditorConfig.editorconfig
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.AssemblyInfoInputs.cache
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.AssemblyInfo.cs
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.csproj.CoreCompileInputs.cache
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.dll
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\refint\Pilots_Console.dll
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.pdb
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\Pilots_Console.genruntimeconfig.cache
+T:\Balogh Bence\14F\C#\2025.04.07_VizsgaDolgozat\Pilots_Console\Pilots_Console\obj\Debug\net8.0\ref\Pilots_Console.dll
