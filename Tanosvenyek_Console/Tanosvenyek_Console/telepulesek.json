@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "nev": "Abaliget"
+  },
+  {
+    "id": 2,
+    "nev": "Ágasegyháza"
+  },
+  {
+    "id": 3,
+    "nev": "Aggtelek"
+  },
+  {
+    "id": 4,
+    "nev": "Apaj"
+  },
+  {
+    "id": 5,
+    "nev": "Ásotthalom"
+  },
+  {
+    "id": 6,
+    "nev": "Babócsa"
+  },
+  {
+    "id": 7,
+    "nev": "Bakonybél"
+  },
+  {
+    "id": 8,
+    "nev": "Balatonederics"
+  },
+  {
+    "id": 9,
+    "nev": "Balatonmagyaród"
+  },
+  {
+    "id": 10,
+    "nev": "Barcs"
+  },
+  {
+    "id": 11,
+    "nev": "Bélapátfalva"
+  },
+  {
+    "id": 12,
+    "nev": "Berettyóújfalu"
+  },
+  {
+    "id": 13,
+    "nev": "Biharugra"
+  },
+  {
+    "id": 14,
+    "nev": "Budapest"
+  },
+  {
+    "id": 15,
+    "nev": "Bugac"
+  },
+  {
+    "id": 16,
+    "nev": "Bükkszentkereszt"
+  },
+  {
+    "id": 17,
+    "nev": "Cégénydányád"
+  },
+  {
+    "id": 18,
+    "nev": "Celldömölk"
+  },
+  {
+    "id": 19,
+    "nev": "Csáfordjánosfa"
+  },
+  {
+    "id": 20,
+    "nev": "Csákvár"
+  },
+  {
+    "id": 21,
+    "nev": "Császártöltés"
+  },
+  {
+    "id": 22,
+    "nev": "Cserépfalu"
+  },
+  {
+    "id": 23,
+    "nev": "Cserkút"
+  },
+  {
+    "id": 24,
+    "nev": "Csopak"
+  },
+  {
+    "id": 25,
+    "nev": "Dejtár"
+  },
+  {
+    "id": 26,
+    "nev": "Dévaványa"
+  },
+  {
+    "id": 27,
+    "nev": "Drégelypalánk"
+  },
+  {
+    "id": 28,
+    "nev": "Dunapataj"
+  },
+  {
+    "id": 29,
+    "nev": "Dunaremete"
+  },
+  {
+    "id": 30,
+    "nev": "Esztergom"
+  },
+  {
+    "id": 31,
+    "nev": "Farmos"
+  },
+  {
+    "id": 32,
+    "nev": "Felsőtárkány"
+  },
+  {
+    "id": 33,
+    "nev": "Fertőrákos"
+  },
+  {
+    "id": 34,
+    "nev": "Fót"
+  },
+  {
+    "id": 35,
+    "nev": "Fülöpháza"
+  },
+  {
+    "id": 36,
+    "nev": "Fülöpszállás"
+  },
+  {
+    "id": 37,
+    "nev": "Gánt"
+  },
+  {
+    "id": 38,
+    "nev": "Garadna"
+  },
+  {
+    "id": 39,
+    "nev": "Gyékényes"
+  },
+  {
+    "id": 40,
+    "nev": "Gyöngyös"
+  },
+  {
+    "id": 41,
+    "nev": "Győr"
+  },
+  {
+    "id": 42,
+    "nev": "Hollókő"
+  },
+  {
+    "id": 43,
+    "nev": "Hortobágy"
+  },
+  {
+    "id": 44,
+    "nev": "Ipolytarnóc"
+  },
+  {
+    "id": 45,
+    "nev": "Izsák"
+  },
+  {
+    "id": 46,
+    "nev": "Jósvafő"
+  },
+  {
+    "id": 47,
+    "nev": "Kaposvár"
+  },
+  {
+    "id": 48,
+    "nev": "Kecskemét"
+  },
+  {
+    "id": 49,
+    "nev": "Kékkút"
+  },
+  {
+    "id": 50,
+    "nev": "Kercaszomor"
+  },
+  {
+    "id": 51,
+    "nev": "Kisapáti"
+  },
+  {
+    "id": 52,
+    "nev": "Kisszentmárton"
+  },
+  {
+    "id": 53,
+    "nev": "Kölked"
+  },
+  {
+    "id": 54,
+    "nev": "Kőszeg"
+  },
+  {
+    "id": 55,
+    "nev": "Kunadacs"
+  },
+  {
+    "id": 56,
+    "nev": "Lakitelek"
+  },
+  {
+    "id": 57,
+    "nev": "Magyaregregy"
+  },
+  {
+    "id": 58,
+    "nev": "Magyarszombatfa"
+  },
+  {
+    "id": 59,
+    "nev": "Matty"
+  },
+  {
+    "id": 60,
+    "nev": "Miskolc"
+  },
+  {
+    "id": 61,
+    "nev": "Mohács"
+  },
+  {
+    "id": 62,
+    "nev": "Mórahalom"
+  },
+  {
+    "id": 63,
+    "nev": "Nagykovácsi"
+  },
+  {
+    "id": 64,
+    "nev": "Nagykőrös"
+  },
+  {
+    "id": 65,
+    "nev": "Óbánya"
+  },
+  {
+    "id": 66,
+    "nev": "Ócsa"
+  },
+  {
+    "id": 67,
+    "nev": "Old"
+  },
+  {
+    "id": 68,
+    "nev": "Orfű"
+  },
+  {
+    "id": 69,
+    "nev": "Orgovány"
+  },
+  {
+    "id": 70,
+    "nev": "Osli"
+  },
+  {
+    "id": 71,
+    "nev": "Őriszentpéter"
+  },
+  {
+    "id": 72,
+    "nev": "Őrtilos"
+  },
+  {
+    "id": 73,
+    "nev": "Paks"
+  },
+  {
+    "id": 74,
+    "nev": "Pálmonostora"
+  },
+  {
+    "id": 75,
+    "nev": "Pannonhalma"
+  },
+  {
+    "id": 76,
+    "nev": "Parád"
+  },
+  {
+    "id": 77,
+    "nev": "Pécs"
+  },
+  {
+    "id": 78,
+    "nev": "Perkupa"
+  },
+  {
+    "id": 79,
+    "nev": "Pilisszentiván"
+  },
+  {
+    "id": 80,
+    "nev": "Poroszló"
+  },
+  {
+    "id": 81,
+    "nev": "Pörböly"
+  },
+  {
+    "id": 82,
+    "nev": "Ravazd"
+  },
+  {
+    "id": 83,
+    "nev": "Salgótarján"
+  },
+  {
+    "id": 84,
+    "nev": "Sámsonháza"
+  },
+  {
+    "id": 85,
+    "nev": "Sarród"
+  },
+  {
+    "id": 86,
+    "nev": "Somlójenő"
+  },
+  {
+    "id": 87,
+    "nev": "Szabadkígyós"
+  },
+  {
+    "id": 88,
+    "nev": "Szalafő"
+  },
+  {
+    "id": 89,
+    "nev": "Szarvas"
+  },
+  {
+    "id": 90,
+    "nev": "Szarvaskő"
+  },
+  {
+    "id": 91,
+    "nev": "Szatymaz"
+  },
+  {
+    "id": 92,
+    "nev": "Szeghalom"
+  },
+  {
+    "id": 93,
+    "nev": "Szekszárd"
+  },
+  {
+    "id": 94,
+    "nev": "Szeremle"
+  },
+  {
+    "id": 95,
+    "nev": "Szigliget"
+  },
+  {
+    "id": 96,
+    "nev": "Szilvásvárad"
+  },
+  {
+    "id": 97,
+    "nev": "Szögliget"
+  },
+  {
+    "id": 98,
+    "nev": "Tarpa"
+  },
+  {
+    "id": 99,
+    "nev": "Tihany"
+  },
+  {
+    "id": 100,
+    "nev": "Tiszaalpár"
+  },
+  {
+    "id": 101,
+    "nev": "Tiszafüred"
+  },
+  {
+    "id": 102,
+    "nev": "Tiszalúc"
+  },
+  {
+    "id": 103,
+    "nev": "Tokaj"
+  },
+  {
+    "id": 104,
+    "nev": "Vámospércs"
+  },
+  {
+    "id": 105,
+    "nev": "Villány"
+  },
+  {
+    "id": 106,
+    "nev": "Vízvár"
+  }
+]

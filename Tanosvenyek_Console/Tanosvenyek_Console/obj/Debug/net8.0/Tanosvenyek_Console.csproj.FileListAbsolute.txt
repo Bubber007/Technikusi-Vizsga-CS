@@ -1,0 +1,16 @@
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\Tanosvenyek_Console.exe
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\telepulesek.json
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\utak.json
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\Tanosvenyek_Console.deps.json
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\Tanosvenyek_Console.runtimeconfig.json
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\Tanosvenyek_Console.dll
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\bin\Debug\net8.0\Tanosvenyek_Console.pdb
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.GeneratedMSBuildEditorConfig.editorconfig
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.AssemblyInfoInputs.cache
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.AssemblyInfo.cs
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.csproj.CoreCompileInputs.cache
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.dll
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\refint\Tanosvenyek_Console.dll
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.pdb
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\Tanosvenyek_Console.genruntimeconfig.cache
+T:\Balogh Bence\14F\C#\2025.03.12_Vizsga_GyakorloFeladat\Tanosvenyek_Console\Tanosvenyek_Console\obj\Debug\net8.0\ref\Tanosvenyek_Console.dll
